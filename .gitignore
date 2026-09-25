@@ -1,0 +1,19 @@
+# dev output
+shots/
+
+# python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# os cruft
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# editor
+.vscode/
+.idea/
+
+# backups created during rebrand
+public/fin/plate_gireesh_original.jpg
